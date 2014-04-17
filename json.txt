@@ -1,0 +1,1212 @@
+﻿{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"*:*",
+      "indent":"true",
+      "fl":"source,link,title",
+      "rows":"300",
+      "wt":"json"}},
+  "response":{"numFound":2760,"start":0,"docs":[
+      {
+        "link":"http://www.engadget.com/2014/04/07/gopro-channel-launches-on-xbox-360/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"GoPro Channel with exclusive content launches on Xbox 360 tomorrow"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/game-of-thrones-crashes-hbo-go/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Viewers see red as Game of Thrones premiere crashes HBO servers"},
+      {
+        "link":"http://venturebeat.com/2014/04/06/the-biggest-threat-to-patent-reform-a-new-appleibmmicrosoft-coalition/",
+        "source":"VentureBeat",
+        "title":"The biggest threat to patent reform: The Apple/IBM/Microsoft coalition"},
+      {
+        "link":"http://venturebeat.com/2014/04/06/the-tech-industrys-problem-is-men-not-a-lack-of-women-nyts-says/",
+        "source":"VentureBeat",
+        "title":"The tech industry’s problem is men, not a lack of women, NYTs says"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/-sY17ISIMhU/this-weedseeking-airport-tractor-spells-death-for-dande-1557706548",
+        "source":"Gizmodo",
+        "title":"This Weedseeking Airport Tractor Spells Death for Dandelions"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/NRTdvnYUkMY/an-rc-plane-that-flies-on-seawater-fuel-1559941971",
+        "source":"Gizmodo",
+        "title":"An RC Plane That Flies on Seawater Fuel"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/cc5b_PNwyP4/noon-pacific-for-android-puts-awesome-weekly-playlists-1558737758",
+        "source":"Lifehacker",
+        "title":"Noon Pacific for Android Puts Awesome Weekly Playlists On Your Phone"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/EyTjD6Txo-A/four-alternative-useful-browsers-based-off-of-google-c-1558525397",
+        "source":"Lifehacker",
+        "title":"Four Alternative, Useful Browsers Based On Google Chrome"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/3Hpjd2TgsO0/",
+        "source":"Mashable",
+        "title":"Why It's So Smoky in New York City and Philadelphia Today"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/iX_JI6vroDA/",
+        "source":"Ars Technica",
+        "title":"iFixit’s Fire TV teardown discovers Snapdragon 600 and a huge heatsink"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/EK_FsNITZsQ/",
+        "source":"Ars Technica",
+        "title":"Seismic imaging revisits an old question: What drives continental drift?"},
+      {
+        "link":"http://www.techspot.com/news/56270-five-year-old-discovers-xbox-live-security-vulnerability.html",
+        "source":"TechSpot",
+        "title":"Five-year-old discovers Xbox Live security vulnerability"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/introducing-the-engadget-uk-edition/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Introducing the Engadget UK Edition"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/skype-tx-for-broadcasters/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Microsoft announces Skype TX with studio-grade audio and video for broadcasters"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/USIDuexsbnM/the-proven-ideal-length-of-every-tweet-facebook-post-and-headline-online",
+        "source":"Fast Company",
+        "title":"The Proven Ideal Length Of Every Tweet, Facebook Post, And Headline Online"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/sJw7yOq3Qpg/how-do-i-stop-people-from-interrupting-at-meetings",
+        "source":"Fast Company",
+        "title":"How Do I Stop People From Interrupting at Meetings?"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/DH1rdNCzuho/5-ways-to-hack-your-weekly-schedule-to-get-more-done",
+        "source":"Fast Company",
+        "title":"5 Ways To Hack Your Weekly Schedule To Get More Done"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/PiwrTCW-ODs/5-ways-to-save-your-middle-managers-from-burnout",
+        "source":"Fast Company",
+        "title":"5 Ways To Save Your Middle Managers From Burnout"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/SNKRXPGhpJE/see-kanye-nirvana-and-aretha-invade-vintage-ads-they-would-never-appear-in",
+        "source":"Fast Company",
+        "title":"See Kanye, Nirvana, and Aretha Invade Vintage Ads They Would Never Appear In"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/GjWceXrvfnY/errol-morris-on-the-value-of-just-listening",
+        "source":"Fast Company",
+        "title":"Errol Morris On The Value Of Just Listening"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/fnOIRyO9nt8/+ericlimer",
+        "source":"Gizmodo",
+        "title":"NASA's Earth Photo of the Year: Puny Islands Float in the Turbulent Sea"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/pdyn6no5D3A/if-you-want-to-watch-game-of-thrones-maybe-just-pay-fo-1559947924",
+        "source":"Gizmodo",
+        "title":"If You Want to Watch Game of Thrones, Maybe Just Pay For It"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/OSTW1h5Uf6Q/90night-sets-alarm-by-best-wake-up-times-for-refreshing-1558997381",
+        "source":"Lifehacker",
+        "title":"90Night Sets Alarm by Best Wake-up Times for Refreshing Sleep"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/RXXfXY-qlYQ/",
+        "source":"Mashable",
+        "title":"Infrared Sensor Could Lead to Night Vision Contact Lenses"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/YfT8MX87F_4/",
+        "source":"Ars Technica",
+        "title":"Google Project Loon Internet balloon circled the globe in 22 days"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/SLCdFtBXPNQ/",
+        "source":"Ars Technica",
+        "title":"“Open Network Linux” could boost viability of vendor-neutral switches"},
+      {
+        "link":"http://www.techspot.com/news/56265-weekend-game-deals-crysis-3-5-gta-ivdlc-8-mass-effect-trilogy-13-and-a-new-humble-bundle.html",
+        "source":"TechSpot",
+        "title":"Weekend game deals: Crysis 3 $5, GTA IV+DLC $8, Mass Effect Trilogy $13, and a new Humble Bundle"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/The-micro-3d-printer/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"The Micro is a $200 3D printer that can make a teacup in an hour"},
+      {
+        "link":"http://venturebeat.com/2014/04/06/anti-tech-protesters-invade-kevin-roses-sf-neighborhood/",
+        "source":"VentureBeat",
+        "title":"Anti-tech protesters invade Kevin Rose’s SF neighborhood"},
+      {
+        "link":"http://venturebeat.com/2014/04/06/robot-kangaroo/",
+        "source":"VentureBeat",
+        "title":"This ridiculously cool robot kangaroo stores energy between jumps (video)"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/h2ySz9_Ea8g/watch-the-first-episode-of-hbos-silicon-valley-right-h-1559975762",
+        "source":"Gizmodo",
+        "title":"Watch the First Episode of HBO's Silicon Valley Right Here"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/yJaWgQclFfE/doctors-can-now-prescribe-bike-share-memberships-in-bos-1559910165",
+        "source":"Gizmodo",
+        "title":"Doctors Can Now Prescribe Bike Share Memberships In Boston"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/ZyKh2et7amk/oh-hey-android-tv-was-all-over-ces-three-months-ago-1559920668",
+        "source":"Gizmodo",
+        "title":"Oh Hey, Android TV Was All Over CES Three Months Ago"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/77IP1DLuavg/clean-your-watchs-face-with-diamond-polishing-compound-1558997133",
+        "source":"Lifehacker",
+        "title":"Clean Your Watch's Face With Diamond Polishing Compound"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/FMQQYOsB5Aw/",
+        "source":"Mashable",
+        "title":"Brutal 30-Second Ad May Finally Change Your Mind About Texting and Driving"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/wcgZmre5u6o/",
+        "source":"Ars Technica",
+        "title":"I had my DNA analyzed, and all I got was this lousy story"},
+      {
+        "link":"http://www.techspot.com/news/56268-unreal-engine-41-update-includes-support-for-linux-and-steamos-.html",
+        "source":"TechSpot",
+        "title":"Unreal Engine 4.1 update includes support for Linux and SteamOS"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/nasa-source-code-openings/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"NASA is offering code from more than 1,000 programs for public use"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/qualcomm-snapdragon-810/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Qualcomm's 2015 chips may make you regret getting a new phone this year"},
+      {
+        "link":"http://venturebeat.com/2014/04/06/plex-app-for-xbox-one/",
+        "source":"VentureBeat",
+        "title":"Plex media app is coming to the Xbox One"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/sfC0OSPR85s/these-scarves-are-woven-music-made-with-patterns-from-1559674147",
+        "source":"Gizmodo",
+        "title":"These Scarves Are Woven Music, Made With Patterns From Organ Punchcards"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/J9JPwZPROb0/+barrett",
+        "source":"Gizmodo",
+        "title":"Putting Video Game Trade-Ins To The Test"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/CXWjFT6k7bg/the-carbon-fiber-trailer-batman-takes-on-vacation-1559849338",
+        "source":"Gizmodo",
+        "title":"The Carbon Fiber Trailer Batman Takes on Vacation"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/IAOV4bfDNn0/check-out-the-best-from-this-weeks-open-thread-1559010558",
+        "source":"Lifehacker",
+        "title":"Check Out the Best From This Week's Open Thread"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/umoI9gRFak4/if-it-bends-bend-it-to-look-better-in-photos-1558996391",
+        "source":"Lifehacker",
+        "title":"\"If It Bends, Bend It\" to Look Better in Photos"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/JOSVuM7Lt4E/",
+        "source":"Mashable",
+        "title":"Joe Biden Dusts Off His Old Twitter Account"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/aPLrr4oI3LE/",
+        "source":"Mashable",
+        "title":"Stellar Reviews Aren't Helping HTC's Bottom Line"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/livestream-google-glass/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Broadcast your point of view with Livestream's new Google Glass app"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/htc-q1-2014-earnings/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"HTC breaks sales losing streak, believes the new One will help it turn a profit"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/zz1NP2Id44E/led-fingernails-that-actually-flash-when-an-nfc-signal-1559791508",
+        "source":"Gizmodo",
+        "title":"LED Fingernails That Actually Flash When an NFC Signal Is Nearby"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/R57K40czVWE/keep-these-documents-ready-when-you-go-apartment-huntin-1558995314",
+        "source":"Lifehacker",
+        "title":"Keep These Documents Ready When You Go Apartment Hunting"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/T6XK3n7jUL8/",
+        "source":"Mashable",
+        "title":"YouTube Files a Complaint in Turkish Court About Ban"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/m-pgm1o_W30/",
+        "source":"Mashable",
+        "title":"NYC Cops and Firefighters Brawl at Charity Hockey Game"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/32DPSeYBqK0/",
+        "source":"Ars Technica",
+        "title":"Former Anon spokesman Barrett Brown copping a federal guilty plea"},
+      {
+        "link":"http://www.techspot.com/news/56264-apples-purchase-of-speech-tech-specialists-could-bring-siri-offline.html",
+        "source":"TechSpot",
+        "title":"Apple's purchase of speech tech specialists could bring Siri offline"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/yahoo-original-streaming-tv/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Yahoo could make original TV shows like Netflix and Amazon"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/30-years-of-mobile-phones/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"​30 years of mobile phones, all jamming together (video)"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/jEBukYVptHE/from-freaks-and-geeks-to-hbos-silicon-valley-how-martin-starr-became-a-geek-god",
+        "source":"Fast Company",
+        "title":"From \"Freaks and Geeks\" To HBO's \"Silicon Valley\": How Martin Starr Became A Geek God"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/awFf-3sHl4k/delightfully-simple-animation-shows-kids-why-design-matters",
+        "source":"Fast Company",
+        "title":"Delightfully Simple Animation Shows Kids Why Design Matters"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/2ImbqwmgUu8/this-is-what-its-like-to-watch-a-holographic-musician",
+        "source":"Fast Company",
+        "title":"This Is What It's Like To Watch A Holographic Musician"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/QKrXZpVSZU8/watch-pixars-new-animation-system-make-monsters-in-real-time",
+        "source":"Fast Company",
+        "title":"Watch Pixar's New Animation System Make Monsters In Real Time"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/0KK7xUO5Y-c/dominique-ansels-cronuty-bakery-shut-down-due-to-mouse-problem",
+        "source":"Fast Company",
+        "title":"Dominique Ansel's Cronut Bakery Shut Down Due to Mouse Problem"},
+      {
+        "link":"http://venturebeat.com/2014/04/06/leaked-docs-reveal-googles-plans-for-android-tv/",
+        "source":"VentureBeat",
+        "title":"Leaked docs reveal Google’s plans for ‘Android TV’"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/OEkjOoJoYu4/the-best-dark-matter-signals-scientists-have-ever-recor-1559804073",
+        "source":"Gizmodo",
+        "title":"The Best Dark Matter Signals Scientists Have Ever Recorded"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/WXkeVujlNsY/+shepmcallister",
+        "source":"Gizmodo",
+        "title":"Build a New PC (Or Upgrade Your Current One) Today on Amazon"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/TocxMbWdTLo/",
+        "source":"Mashable",
+        "title":"Microsoft's Sci-Fi Drama Series 'Humans' Will Premiere on Xbox"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/YPbWrmsAQuc/",
+        "source":"Mashable",
+        "title":"Top 10+ List: The Odds for David Letterman's Replacements"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/0aKA2Ur8I4U/",
+        "source":"Mashable",
+        "title":"'Captain America: The Winter Solder': 9 Key Details You May Have Missed"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/DRGJfJ5TFjU/",
+        "source":"Mashable",
+        "title":"Flight 370: Searchers Detect Signals as Black Box Batteries Near Their End"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/Hx-xTaHlb8E/",
+        "source":"Ars Technica",
+        "title":"A sort of particle-free supersymmetry found in exotic materials"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/gNuO64tjdkw/",
+        "source":"Ars Technica",
+        "title":"Yelp stock falls as FTC says it’s received more than 2,000 complaints about site"},
+      {
+        "link":"http://www.techspot.com/news/56266-googles-project-loon-hot-air-balloon-goes-around-the-world-in-22-days.html",
+        "source":"TechSpot",
+        "title":"Google's Project Loon hot air balloon goes around the world in 22 days"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/microsoft-xbox-studios-six-series/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Microsoft already has six TV series lined up for Xbox and more are coming (updated)"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/ebay-the-future-of-commerce/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"eBay plans for the future of commerce: more wearable integration and your own personal shopper"},
+      {
+        "link":"http://venturebeat.com/2014/04/06/philadelphia-shows-off-its-tetris-games-on-a-29-story-skyscraper/",
+        "source":"VentureBeat",
+        "title":"Philadelphia plays Tetris on a 29-story skyscraper"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/cant-find-the-perfect-employee-maybe-youre-being-a-bad-interviewer/",
+        "source":"VentureBeat",
+        "title":"Can’t find the perfect employee? Maybe you’re being a bad interviewer"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/8KIlkJA1B7E/5-buildings-designed-to-make-cancer-treatment-a-little-1559664313",
+        "source":"Gizmodo",
+        "title":"5 Buildings Designed To Make Cancer Treatment a Little More Bearable"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/JsRZTCbVx2k/fokus-highlights-selected-text-on-the-web-and-dims-ever-1558993858",
+        "source":"Lifehacker",
+        "title":"Fokus Highlights Selected Text on the Web and Dims Everything Else"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/rabB_lEmnug/five-best-desktop-microphones-1558732156",
+        "source":"Lifehacker",
+        "title":"Five Best Desktop Microphones"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/aP34AlbYrx0/",
+        "source":"Mashable",
+        "title":"The 10 Best Subreddits for Fashion Wisdom"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/PYXpK9-24qA/",
+        "source":"Mashable",
+        "title":"10 Essentials for the Perfect Selfie"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/on5O7tPA0qI/",
+        "source":"Ars Technica",
+        "title":"Microsoft open sources a big chunk of .NET"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/eInnkFWzVbQ/",
+        "source":"Ars Technica",
+        "title":"Record labels say ‘Russian Facebook’ is a haven for music piracy"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/samsung-galaxy-s5-on-cspire/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"C Spire will carry the Samsung Galaxy S5 in May"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/heres-what-tesla-model-s-drivers-are-really-doing-in-their-connected-cars/",
+        "source":"VentureBeat",
+        "title":"Here’s what Tesla Model S drivers are really doing in their connected cars"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/these-three-trends-will-transform-how-employees-use-their-phones/",
+        "source":"VentureBeat",
+        "title":"These three trends will transform how employees use their phones"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/gSujn_oc7CM/+gmanaugh",
+        "source":"Gizmodo",
+        "title":"Gawker Southern California Beach Party Ended in a Giant Street Brawl | io9 Star Wars: Episode VII Ha"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/3GyIBywWsuo/switch-passive-learning-tasks-to-active-ones-for-better-1558987835",
+        "source":"Lifehacker",
+        "title":"Switch Passive Learning Tasks to Active Ones for Better Studying"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/ejiQYw3Y_9g/",
+        "source":"Mashable",
+        "title":"Treat Yo' Self: 6 Beauty Sites for the Ultimate Makeover"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/vY4GxwHwQ60/",
+        "source":"Mashable",
+        "title":"10 'His and Hers' Coffee Mugs for You and Your Boo"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/tyPtMXYYtJk/",
+        "source":"Mashable",
+        "title":"8 Tips for Success on Facebook's New Video Advertising Platform"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/uTOyFsza-ZA/",
+        "source":"Mashable",
+        "title":"8 Bad Habits You Can Quit Using Apps"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/sJlcmSwTXa4/",
+        "source":"Ars Technica",
+        "title":"White House condemns Samsung's use of Obama selfie as an ad"},
+      {
+        "link":"http://www.techspot.com/news/56263-european-parliament-votes-to-end-roaming-charges-adopts-net-neutrality.html",
+        "source":"TechSpot",
+        "title":"European parliament votes to end roaming charges, adopts 'net neutrality'"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/apple-consumers-want-what-we-dont-have/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Apple, April 2013: 'Consumers want what we don't have'"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/it-had-to-happen-jailbreaking-a-tesla-model-s/",
+        "source":"VentureBeat",
+        "title":"It had to happen: Jailbreaking a Tesla Model S"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/ac_BtjFxw7I/do-color-blind-people-see-more-colors-when-they-take-ha-1559776902",
+        "source":"Gizmodo",
+        "title":"Do Color Blind People See More Colors When They Take Hallucinogens?"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/9KQ6iaagaqs/qualcomms-2015-snapdragon-chips-promise-lightning-fast-1559753207",
+        "source":"Gizmodo",
+        "title":"Qualcomm's 2015 Snapdragon Chips Promise Lightning Fast Phones"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/LRpP5VZ_Tgo/this-weeks-top-downloads-1559008350",
+        "source":"Lifehacker",
+        "title":"This Week's Top Downloads"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/YMjnnKvKB6Y/my-paid-apps-tracks-all-google-play-buys-and-in-app-pur-1558986683",
+        "source":"Lifehacker",
+        "title":"My Paid Apps Tracks All Google Play Buys and In-App Purchases"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/XZSwRMyNkVE/",
+        "source":"Mashable",
+        "title":"Sony's A7s Camera Shoots 4K Video in Low Light Conditions"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/GL4KXFOQkuo/",
+        "source":"Mashable",
+        "title":"Viral Video Recap: Animal Fails and 'The Lion King' As In-Flight Entertainment"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/gooAW5xTUDQ/",
+        "source":"Mashable",
+        "title":"Remember Mickey Rooney's Legacy With His Best Hollywood Moments"},
+      {
+        "link":"http://www.techspot.com/news/56258-watch-this-skydiver-almost-get-hit-by-meteorite-.html",
+        "source":"TechSpot",
+        "title":"Watch this skydiver almost get hit by meteorite"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/hwyc-nintendo-wii-u/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"How would you change Nintendo's Wii U?"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/8fNW8zEr8xQ/stick-on-circuit-could-put-your-iphone-on-your-finger-for-pocket-change",
+        "source":"Fast Company",
+        "title":"Stick-On Circuit Could Put Your Phone On Your Finger For Pocket Change"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/3imJm6L5cU0/ftc-subpoena-revelations-send-yelps-stock-price-tumbling",
+        "source":"Fast Company",
+        "title":"FTC Subpoena Revelations, Thousands Of Complaints Send Yelp's Stock Price Tumbling"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/flickrs-product-chief-defects-to-eyeem-another-photography-community/",
+        "source":"VentureBeat",
+        "title":"Flickr’s product chief defects to EyeEm, another photography community"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/Pue5s1uLtEY/the-popularity-of-different-cheap-beers-mapped-1559715637",
+        "source":"Gizmodo",
+        "title":"The Twitter-Popularity of Different Beers, Mapped"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/74trWLVDEo0/watch-30-years-of-mobile-phone-come-together-as-a-digit-1559708616",
+        "source":"Gizmodo",
+        "title":"Watch 30 Years of Mobile Phones Come Together as a Digital Orchestra"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/8J5hOGesf8s/hsts-the-security-that-all-websites-should-be-using-1559701771",
+        "source":"Gizmodo",
+        "title":"HSTS: The Security That All Websites Should Be Using"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/MjBR33p3-oY/create-a-brag-folder-in-your-inbox-for-easy-resume-up-1558986142",
+        "source":"Lifehacker",
+        "title":"Create a \"Brag Folder\" in Your Inbox for Easy Resume Updates"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/5PfNdyIbBv0/",
+        "source":"Mashable",
+        "title":"Mickey Rooney's Last Years: A Collection of Video Moments"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/JvNjGxne9_k/",
+        "source":"Mashable",
+        "title":"Mickey Rooney, Star of the Screen, Stage and TV for Decades, Dead at 93"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/obama-ortiz-selfie-white-house/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"White House has had legal talks with Samsung about that presidential selfie"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/bWQnO0WPNQ4/ivan-reitman-on-collaborating-with-the-nfl-for-draft-day",
+        "source":"Fast Company",
+        "title":"Ivan Reitman On Collaborating With The NFL For \"Draft Day\""},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/84VNpUEHqGk/how-breather-lets-you-into-its-nyc-buildings-without-keys-or-an-internet-connection",
+        "source":"Fast Company",
+        "title":"How Breather Lets You Into Its NYC Buildings Without Keys (Or An Internet Connection)"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/h9CTr7R1gnE/digital-clocks-updated-with-an-elegant-script-typeface",
+        "source":"Fast Company",
+        "title":"Digital Clocks Updated With An Elegant Script Typeface"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/Gbrq6rPmvJQ/world-famous-buildings-turned-into-neon-line-drawings",
+        "source":"Fast Company",
+        "title":"World-Famous Museums Turned Into Neon Line Drawings"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/kabam-warns-players-of-fraud-in-2-of-its-highly-profitable-games/",
+        "source":"VentureBeat",
+        "title":"Kabam warns players of fraud in 2 of its highly profitable games"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/sales-vs-marketing-whos-out-innovating-whom/",
+        "source":"VentureBeat",
+        "title":"Sales vs. marketing: Who’s out-innovating whom?"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/stephen-wolframs-grand-plans-to-monetize-his-supreme-new-programming-language/",
+        "source":"VentureBeat",
+        "title":"Stephen Wolfram’s grand plans to monetize his supreme new programming language"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/jmrAQqsaS7k/bloomberg-microsoft-has-six-original-tv-series-in-prod-1559696390",
+        "source":"Gizmodo",
+        "title":"Microsoft Has Six Original TV Series in Production"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/hpJJelhNLyw/this-is-the-largest-known-galaxy-in-the-distant-univers-1559693741",
+        "source":"Gizmodo",
+        "title":"This Is the Largest Known Galaxy in the Distant Universe"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/dvLKSpCd2y0/do-something-personally-rewarding-not-productive-for-1558985258",
+        "source":"Lifehacker",
+        "title":"Do Something Personally Rewarding, Not Productive, for Happy Commutes"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/V0L7uMCsx6I/",
+        "source":"Mashable",
+        "title":"'Game of Thrones' Premiere Crashes HBO Go"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/7jmIhKidIxY/",
+        "source":"Mashable",
+        "title":"Your Future Couch Could Be Made of Living Cells"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/tmUJ8u6bIAw/",
+        "source":"Ars Technica",
+        "title":"With California’s red light cameras, are pictures admissible evidence?"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/oKcCnmr-jCA/",
+        "source":"Ars Technica",
+        "title":"Microsoft gives iOS and Android a little (Active) Directory assistance"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/yW-IGhA-TXE/",
+        "source":"Ars Technica",
+        "title":"Newegg and friends crush a patent troll"},
+      {
+        "link":"http://www.techspot.com/news/56259-google-owned-nest-suspends-sales-of-its-protect-fire-alarm-citing-a-potential-safety-issue-.html",
+        "source":"TechSpot",
+        "title":"Google-owned Nest suspends sales of its 'Protect' fire alarm citing a potential safety issue"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/dji-phantom-2-vision-plus/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"DJI improves stabilization, tilt and flying speed with Phantom 2 Vision+ drone"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/elOmY3I_kWU/android-tv-this-is-the-new-google-tv-1559699574",
+        "source":"Gizmodo",
+        "title":"Report: Android TV Is the New Google TV"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/LZntGbGJ7EA/wsj-yahoo-is-planning-to-make-its-own-original-web-tv-1559688736",
+        "source":"Gizmodo",
+        "title":"WSJ: Yahoo Is Planning to Make Its Own Original Web TV Shows"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/9WnQnf6mnnU/can-you-kill-someone-with-an-icicle-slingshot-maniac-i-1559585991",
+        "source":"Gizmodo",
+        "title":"Can You Kill Someone With an Icicle? Slingshot Maniac Investigates"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/LXJrIwCLqVQ/tweetz-is-a-simple-attractive-and-efficient-desktop-tw-1558983968",
+        "source":"Lifehacker",
+        "title":"Tweetz is a Simple, Attractive and Efficient Desktop Twitter Client"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/0HxSLc0qEYc/",
+        "source":"Mashable",
+        "title":"10 Vine Videos of Creatures Big and Small"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/-THjlSJu9n0/",
+        "source":"Mashable",
+        "title":"5-Year-Old Boy Discovers Microsoft Xbox One Security Flaw"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/35ozQtZTQ6I/",
+        "source":"Mashable",
+        "title":"Southern California Riot Leads to Arrests, Hospitalizations"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/QJJlCNNm2ok/",
+        "source":"Ars Technica",
+        "title":"Google Wireless: Google Fiber cities could get mobile service, but to what end?"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/dJURDAaKvzc/",
+        "source":"Ars Technica",
+        "title":"Cassini points to a hidden ocean on Saturn’s icy moon"},
+      {
+        "link":"http://www.techspot.com/news/56260-amds-desktop-kabini-apus-to-sell-for-as-low-as-31.html",
+        "source":"TechSpot",
+        "title":"AMD's desktop Kabini APUs to sell for as low as $31"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/dji-ronin-gimbal/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"DJI brings its smooth video tech to the ground with Ronin camera gimbal"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/tetris-philly-tech-week/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Watch this massive game of Tetris play out on a Philly skyscraper (video)"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/just-eat-a-global-grubhub-ipos-at-2-45b/",
+        "source":"VentureBeat",
+        "title":"Just Eat, a global GrubHub, IPOs at $2.45B"},
+      {
+        "link":"http://venturebeat.com/2014/04/05/hbos-silicon-valley-is-the-office-space-we-need-for-todays-tech-world-review/",
+        "source":"VentureBeat",
+        "title":"HBO’s ‘Silicon Valley’ is the ‘Office Space’ we need for today’s tech world (review)"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/1332897/",
+        "source":"VentureBeat",
+        "title":"Funding Daily: April 4, 2014"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/s3nnBmb9p-k/dji-phantom-2-vision-review-buttery-smooth-quadcopter-1559567158",
+        "source":"Gizmodo",
+        "title":"DJI Phantom 2 Vision+ Review: Buttery Smooth Quadcopter Video"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/nWT0bZWjISw/these-are-the-most-painful-places-to-get-stung-by-a-bee-1559544366",
+        "source":"Gizmodo",
+        "title":"These Are the Most Painful Places to Get Stung by a Bee"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/wgzq80-ApxQ/boil-cinnamon-sticks-to-de-odorize-smelly-rooms-1558982956",
+        "source":"Lifehacker",
+        "title":"Boil Cinnamon Sticks to De-Odorize Smelly Rooms"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/o4qp-jYvdt4/",
+        "source":"Mashable",
+        "title":"Giant Game of Tetris Played on 29-Story Building"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/cegq8JvHM8A/",
+        "source":"Mashable",
+        "title":"Watch Holograms of Janelle Monae and M.I.A. Perform Duets Cities Apart"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/XHLWnSHZtw8/",
+        "source":"Mashable",
+        "title":"In Pictures, Darth Vader Running for President of Ukraine"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/h14DkQ4sR-k/",
+        "source":"Ars Technica",
+        "title":"Brendan Eich resigns as Mozilla Corporation CEO [Updated]"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/sony-alpha-a7s/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Sony announces full-frame Alpha A7s with 4K video output"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/3play-is-a-bluetooth-audio-dongle/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"3play is a Bluetooth audio dongle that begs to be misused"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/porton-man-humanoid-hazma-robot-uk/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"UK's Ministry of Defence has its own creepy hazmat testing robot (video)"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/6ENLogaLcmY/sound-looks-like-this",
+        "source":"Fast Company",
+        "title":"Sound Looks Like This"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/8IgurkG-kAQ/italys-most-glamorous-fashion-from-1945-to-today",
+        "source":"Fast Company",
+        "title":"Italy's Most Glamorous Fashion, From 1945 To Today"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/the-free-gadget-that-amazon-hopes-will-compel-you-to-order-more-stuff-lots-more-stuff/",
+        "source":"VentureBeat",
+        "title":"The free gadget that Amazon hopes will compel you to order more stuff — lots more stuff"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/trial-docs-show-apple-worries-cheaper-android-phabets-will-hurt-iphone-sales/",
+        "source":"VentureBeat",
+        "title":"Trial docs show Apple worries cheaper Android ‘phablets’ will hurt iPhone sales"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/xTkH5aMsYWQ/sony-a7s-sonys-compact-full-frame-camera-gets-a-video-1559531995",
+        "source":"Gizmodo",
+        "title":"Sony A7s: Sony's Compact Full-Frame Camera Gets a Video Overhaul"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/Dde6pdXu9B8/",
+        "source":"Mashable",
+        "title":"'Game of Thrones' Opening Sequence Reimagined With Social Media"},
+      {
+        "link":"http://www.techspot.com/news/56257-google-said-to-be-considering-premium-support-service-for-select-devices-called-android-silver.html",
+        "source":"TechSpot",
+        "title":"Google said to be considering premium support service for select devices called Android Silver"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/windows-in-the-car/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Windows Phone may come to your car with Cortana as copilot"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/p5xX5z0yZIE/this-mystery-man-took-hundreds-of-photobooth-self-portr-1558493744",
+        "source":"Gizmodo",
+        "title":"This Mystery Man Took Hundreds Of Photobooth Self-Portraits—But Why?"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/PKMmK47tcZY/desperate-for-some-midday-shut-eye-google-naps-has-you-1559441645",
+        "source":"Gizmodo",
+        "title":"Desperate for Some Midday Shut-Eye? Google Naps Has You Covered"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/hRlbrUa2b9w/floating-equalizer-adjusts-sound-settings-anywhere-on-a-1558981993",
+        "source":"Lifehacker",
+        "title":"Floating Equalizer Adjusts Sound Settings Anywhere on Android"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/HFPLequ0Z1w/",
+        "source":"Mashable",
+        "title":"Google Ventures' Kevin Rose Targeted by San Francisco Protesters"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/qtuTs3Jlo1g/",
+        "source":"Mashable",
+        "title":"Ukraine Faces New Crisis as Pro-Russian Separatists Seize Buildings"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/oxW9WeTMjJ4/",
+        "source":"Mashable",
+        "title":"Why Another Old White Guy Is a Bad Idea for CBS' 'Late Show'"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/CFZ9eCTX23o/",
+        "source":"Ars Technica",
+        "title":"More than virtualization: VMware wants to be a security company, too"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/irl-smith-io-recon-goggles/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"IRL: Going skiing with Smith I/O Recon goggles"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/windows-phone-8-1-miracast-limitations/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Windows Phone 8.1 does Miracast media sharing, but most devices won't cut it (updated)"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/TdgJ20q-3ak/theres-a-9-hour-movie-of-a-guy-walking-through-tokyo-and-youll-want-to-watch-the-whole-thing",
+        "source":"Fast Company",
+        "title":"There's A 9-Hour Movie Of A Guy Walking Through Tokyo, And You'll Want To Watch The Whole Thing"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/uq0scy8R9J0/watch-honey-maids-amazing-response-to-homophobic-backlash",
+        "source":"Fast Company",
+        "title":"Watch Honey Maid's Amazing Response To Homophobic Backlash"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/this-robot-is-better-at-threes-than-you/",
+        "source":"VentureBeat",
+        "title":"This robot is better at Threes than you are"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/autocast-chromecast-multitasking-app/",
+        "source":"VentureBeat",
+        "title":"‘AutoCast’ for Android might be the most useful Chromecast app yet"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/8-V6GeOcBkE/heres-what-playing-tetris-on-a-29-story-skyscraper-loo-1559486859",
+        "source":"Gizmodo",
+        "title":"Here's What Tetris on the Side of a 29-Story Skyscraper Looks Like"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/ER1l8m1Vehw/+ashleyfeinberg",
+        "source":"Gizmodo",
+        "title":"Not the kind of tweets you want to see from NORAD..."},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/XYSJBCiukVQ/giant-portrait-shows-drone-operators-that-people-arent-1559460573",
+        "source":"Gizmodo",
+        "title":"Giant Portrait Shows Drone Operators That People Aren't \"Bug Splats\""},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/uJ9oiNCZUps/+jesusdiaz",
+        "source":"Gizmodo",
+        "title":"Amazing trick will distort your vision and make you hallucinate"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/ivBaGFaQuzE/a-rare-trip-on-the-floating-train-yard-of-hudson-harbor-1557809294",
+        "source":"Gizmodo",
+        "title":"A Rare Trip On The Floating Train Yard Of Hudson Harbor"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/KtrDklSASFA/",
+        "source":"Mashable",
+        "title":"9 Vacation Spots to Reenact 'Game of Thrones'"},
+      {
+        "link":"http://www.techspot.com/news/56256-vine-update-introduces-private-video-text-messaging.html",
+        "source":"TechSpot",
+        "title":"Vine update introduces private video, text messaging"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/62vXyZJdO2k/how-to-inspire-every-day-cycling",
+        "source":"Fast Company",
+        "title":"How To Inspire Everyday Cycling"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/how-silicon-valley-trolled-mozillas-ceo-out-of-office/",
+        "source":"VentureBeat",
+        "title":"How Silicon Valley trolled Mozilla’s CEO out of office"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/opower-makes-its-public-debut-proving-the-profitability-of-greentech/",
+        "source":"VentureBeat",
+        "title":"For early oPower investors, ‘ecosystem’ approach finally pays off"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/TT5e3XO_yJ8/from-sexting-to-sacraments-how-mobile-apps-are-taking-1558074212",
+        "source":"Gizmodo",
+        "title":"From Sexting to Sacraments: How Mobile Apps Are Taking on Religion"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/Wbcl6Oga-L4/top-10-apps-and-services-made-better-by-add-ons-1558382325",
+        "source":"Lifehacker",
+        "title":"Top 10 Apps and Services Made Better by Add-Ons"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/4CAuMWo3FuY/fit-your-storage-cabinet-next-to-dishwasher-for-easy-un-1558981066",
+        "source":"Lifehacker",
+        "title":"Fit Your Storage Cabinet Next to Dishwasher for Easy Unloading"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/9pxjtiAmB8Q/how-to-take-better-pictures-with-your-smartphones-camera",
+        "source":"Lifehacker",
+        "title":"How to Take Better Pictures with Your Smartphone's Camera"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/Ie3x5yIz9XM/",
+        "source":"Mashable",
+        "title":"Google to Launch Android TV, Report Says"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/gadget-rewind-2006-sony-reader-prs-500/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Gadget Rewind 2006: Sony Reader PRS-500"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/WarkaWater-Tower,-kangaroo-like-robot-energy-generating-carousel/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Inhabitat's Week in Green: WarkaWater Tower, kangaroo-like robot and an energy-generating carousel"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/wRNNirde0ZE/meet-the-entrepreneurs-behind-nigerias-start-up-revolution",
+        "source":"Fast Company",
+        "title":"Meet The Entrepreneurs Behind Nigeria's Startup Revolution"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/SE4gITA8oEw/now-you-can-use-emoji-to-search-yelp",
+        "source":"Fast Company",
+        "title":"Now You Can Use Emoji To Search Yelp"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/from-russia-without-love-vb-gets-ddosd/",
+        "source":"VentureBeat",
+        "title":"From Russia without love: VB gets DDoS’d"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/kindergarten-hacker-5-year-old-breaks-into-dads-xbox-live-account/",
+        "source":"VentureBeat",
+        "title":"Kindergarten hacker: 5 year old breaks into dad’s Xbox Live account"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/WMXw7kiSRZU/microsofts-new-windows-in-the-car-concept-takes-on-a-1559385290",
+        "source":"Gizmodo",
+        "title":"Microsoft's New \"Windows in the Car\" Concept Takes on Apple's CarPlay"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/El0e35uTnLM/turn-a-super-nintendo-into-an-arcade-machine-1557943328",
+        "source":"Lifehacker",
+        "title":"Turn a Super Nintendo into an Arcade Machine"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/hF0vvNAmgjA/",
+        "source":"Mashable",
+        "title":"'The Simpsons' Bid Farewell to David Letterman With Couch Gag"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/P7RpW6sl1qs/",
+        "source":"Ars Technica",
+        "title":"Uncharted creative director to lead new EA Star Wars game"},
+      {
+        "link":"http://www.techspot.com/news/56255-plextor-m6e-pcie-solid-state-drive-available-in-128gb-256gb-and-512gb-capacities-starting-april-7.html",
+        "source":"TechSpot",
+        "title":"Plextor M6e PCIe solid state drive available in 128GB, 256GB and 512GB capacities starting April 7"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/eu-requiring-ev-noise-alerts/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"EU to require that EVs and hybrids make noise to alert pedestrians"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/hubspot-marketo-eloqua-new-data-shows-marketing-automation-market-share-in-unprecedented-detail/",
+        "source":"VentureBeat",
+        "title":"Hubspot, Marketo, Eloqua: New data shows marketing automation market share in unprecedented detail"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/learn-the-dirty-secrets-of-mobile-monetization-at-the-mobile-summit/",
+        "source":"VentureBeat",
+        "title":"Learn the dirty secrets of mobile monetization at the Mobile Summit"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/gbRZzg5L6cM/your-coffee-shops-wi-fi-speeds-are-about-to-triple-1559373897",
+        "source":"Gizmodo",
+        "title":"Your Coffee Shop's Wi-Fi Speeds Are About to Triple"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/Jd8-Aum1UlA/the-incredible-fiery-process-of-making-copper-wire-1559282588",
+        "source":"Gizmodo",
+        "title":"The Incredible, Fiery Process of Making Copper Wire"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/kaBCqgNsTnc/+jesusdiaz",
+        "source":"Gizmodo",
+        "title":"Babies trying lemons for the first time in slow motion"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/hT-NfGh6oZk/easily-remove-dark-circles-from-under-the-eyes-in-photo-1557865794",
+        "source":"Lifehacker",
+        "title":"Easily Remove Dark Circles from Under the Eyes in Photoshop"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/JBdQVj9Bk7c/how-do-you-stay-productive-during-wasted-time-1558069924",
+        "source":"Lifehacker",
+        "title":"How Do You Stay Productive During \"Wasted\" Time?"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/4dAqM0lc3bk/",
+        "source":"Mashable",
+        "title":"Job Openings at Top Media Companies: Target, Samsung and More"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/tuLHEpaV2L8/",
+        "source":"Mashable",
+        "title":"Solar Flare Captured in Stunning NASA Video"},
+      {
+        "link":"http://www.engadget.com/2014/04/06/mazda-6-recall-spiders/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Mazda is updating car software to fix problems with real, living bugs"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/tBrl2yKO8tY/see-a-classic-painting-thats-actually-a-spellbinding-cgi-masterpiece",
+        "source":"Fast Company",
+        "title":"See A Classic \"Painting\" That's Actually A Spellbinding CGI Masterpiece"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/italy-slaps-googles-hand-with-1-4m-fine-for-not-labeling-street-view-cars/",
+        "source":"VentureBeat",
+        "title":"Italy slaps Google’s hand with $1.4M fine for not clearly labeling Street View cars"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/2HCG3qNFKr8/listening-to-in-utero-on-the-20th-anniversary-of-kurt-c-1559233778",
+        "source":"Gizmodo",
+        "title":"Listening to In Utero on the 20th Anniversary of Kurt Cobain's Death"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/fSHqjervw7E/+whitsongordon",
+        "source":"Lifehacker",
+        "title":"Gawker James Franco Says He Did Hit On a Teen, Because Social Media Is Tricky | Jalopnik The Ten Wor"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/v9jFek5zzFM/",
+        "source":"Mashable",
+        "title":"'The Little Mermaid' Should Never Sound Like Kesha"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/2mE1OmGizYU/",
+        "source":"Mashable",
+        "title":"12 Hippest Uses for Your Mason Jar"},
+      {
+        "link":"http://www.engadget.com/2014/04/05/third-party-plex-client-for-xbox-one/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"An independent developer is bringing a Plex client to Xbox One"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/TqumQ-p5sjE/watch-out-att-google-might-launch-its-own-wireless-network",
+        "source":"Fast Company",
+        "title":"Watch Out, AT&T? Google Might Launch Its Own Wireless Network"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/vEfSBrWyjNk/undercover-houston-cops-on-bikes-are-nabbing-drivers-dangerous-to-cyclists",
+        "source":"Fast Company",
+        "title":"Undercover Houston Cops On Bikes Are Nabbing Drivers Dangerous To Cyclists"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/nJAKFk_gYAY/map-the-cheap-beers-people-drink-across-the-us",
+        "source":"Fast Company",
+        "title":"Map: The Cheap Beers People Drink Across The U.S."},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/1Sqsex6ZUrg/see-george-w-bushs-portraits-of-world-leaders-and-cats-revealed-today",
+        "source":"Fast Company",
+        "title":"See George W. Bush's Portraits Of World Leaders, And Cats, Revealed Today"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/hRIOOFVF8hk/do-not-let-super-mario-out-of-your-sight-hell-destroy-1559111694",
+        "source":"Gizmodo",
+        "title":"Do Not Let Super Mario Out Of Your Sight, He'll Destroy Your House"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/gCGhqBxaQj4/should-you-sign-the-back-of-your-credit-card-1558289863",
+        "source":"Lifehacker",
+        "title":"Should You Sign the Back of Your Credit Card?"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/cSEM50Al67I/",
+        "source":"Mashable",
+        "title":"Sansa Stark's Got 99 Problems and Bad Rapping is One in 'Game of Moans'"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/9MqWNn5s9f4/torpedo-shares-self-destructing-files-for-short-periods-1558294306",
+        "source":"Lifehacker",
+        "title":"Torpedo Shares Self-Destructing Files For Short Periods of Time"},
+      {
+        "link":"http://www.techspot.com/news/56253-google-looking-to-offer-mobile-phone-service-in-fiberhoods.html",
+        "source":"TechSpot",
+        "title":"Google looking to offer mobile phone service in fiberhoods"},
+      {
+        "link":"http://www.engadget.com/2014/04/05/amazon-fire-tv-windows-phone-8-1/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Weekends with Engadget: Amazon's Fire TV, Microsoft announces Windows Phone 8.1 and more!"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/YVMkMRBGN9g/tomorrows-cancer-blasting-wonder-drug-could-come-from-1559195771",
+        "source":"Gizmodo",
+        "title":"Tomorrow's Cancer-Blasting Wonder Drug Could Come From a Tobacco Plant"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/GU8-CaaM1MI/",
+        "source":"Mashable",
+        "title":"Hey, You Guys! 'Goonies' Is Getting a Sequel"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/SdvsE6uenCg/",
+        "source":"Mashable",
+        "title":"Find Out Where Your Time Goes With This Productivity Chart"},
+      {
+        "link":"http://www.engadget.com/2014/04/05/feedback-loop-best-android-phone/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Feedback Loop: Best Android phone, cameras in tablets, finding good deals and more!"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/GbWlTeJrMcU/a-striking-animated-short-made-with-nothing-but-sticky-1559180218",
+        "source":"Gizmodo",
+        "title":"A Striking Animated Short Made With Nothing But Sticky Notes"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/2FN-aaFPpi0/take-30-seconds-after-learning-something-to-write-impor-1558329109",
+        "source":"Lifehacker",
+        "title":"Take 30 Seconds After Learning Something to Write Important Points"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/X7vEtsrUtiw/",
+        "source":"Mashable",
+        "title":"'Game of Thrones' School Pictures Will Make You Smile Awkwardly"},
+      {
+        "link":"http://www.engadget.com/2014/04/05/tobacco-cancer-treatment/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Surprise: Tobacco could eventually lead to new cancer treatment"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/AQ-JAMuAPxk/the-drug-fueled-early-sketches-of-comic-book-legend-r-crumb-nsfw",
+        "source":"Fast Company",
+        "title":"The Drug-Fueled Early Sketches Of Comic-Book Legend R. Crumb [NSFW]"},
+      {
+        "link":"http://feedproxy.google.com/~r/fastcompany/headlines/~3/VkKQ0WddDck/this-elevator-might-make-you-forget-youre-stuck-in-a-metal-death-trap-with-strangers",
+        "source":"Fast Company",
+        "title":"This Elevator Might Make You Forget You're Stuck In A Metal Death Trap With Strangers"},
+      {
+        "link":"http://venturebeat.com/2014/04/04/citeecar-picks-up-10m-to-be-germanys-zipcar-with-a-major-twist/",
+        "source":"VentureBeat",
+        "title":"CiteeCar picks up $10M to be Germany’s ZipCar, with a major twist"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/8-4ljEV3T4o/oh-good-yelp-now-suggests-businesses-based-on-emoji-1559161528",
+        "source":"Gizmodo",
+        "title":"Oh Good, Yelp Now Suggests Businesses Based on Emoji"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/wNikycfYaJo/",
+        "source":"Mashable",
+        "title":"'SNL' Parodies 'Game of Thrones' Author: I'm Out of Plot Ideas"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/tOHhS7TygxQ/",
+        "source":"Mashable",
+        "title":"'Godzilla' Extended Trailer: 13 Terrifying Views"},
+      {
+        "link":"http://www.engadget.com/2014/04/05/google-android-tv-leak/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Google reportedly looking to simplify home entertainment with Android TV"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/ETFBIvoUk8E/this-week-in-tech-reads-coal-animal-actors-wasteful-1559105051",
+        "source":"Gizmodo",
+        "title":"This week in Tech Reads: coal, animal actors, wasteful government spending, and more!"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/ovkq2cTY9OM/reframe-roundup-this-weeks-best-photography-posts-1558609701",
+        "source":"Gizmodo",
+        "title":"Reframe Roundup: This Week's Best Photography Posts"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/YlX_fb_dtDw/report-googles-joining-the-set-top-box-market-with-an-1559128650",
+        "source":"Gizmodo",
+        "title":"Report: Android TV Will Be Google's Next Big Set-Top Box Push"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/RjotT4wzaeg/",
+        "source":"Mashable",
+        "title":"5 Meditation Apps for Channeling Your Inner Peace"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/B_OXhVpfHGE/+barrett",
+        "source":"Gizmodo",
+        "title":"Blackmagic URSA: A Modular Cinema Camera with Insane Swappable Sensor"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/iNJbhqd6D0Q/do-a-little-corporate-digging-to-find-out-why-you-didn-1558739719",
+        "source":"Lifehacker",
+        "title":"Do a Little Corporate Digging to Find Out Why You Didn't Get the Job"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/1Tqwa8EHbwA/",
+        "source":"Mashable",
+        "title":"'How I Met Your Mother' Is Releasing an Alternate Ending on DVD"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/bt-sport-live-ios-android-chromecast/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"You can now stream BT Sport on Google Chromecast"},
+      {
+        "link":"http://venturebeat.com/2014/04/07/bioconsortia-raises-15m-series-b-round-from-khosla-ventures-and-otter-capital/",
+        "source":"VentureBeat",
+        "title":"BioConsortia Raises $15M Series B Round from Khosla Ventures and Otter Capital"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/mECzeS567Jg/meet-porton-man-the-2-million-robot-soldier-guinea-pi-1560153244",
+        "source":"Gizmodo",
+        "title":"Meet Porton Man, the $2 Million Robot Soldier Guinea Pig"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/DrS_YgYQrhs/google-glass-livestream-app-makes-broadcasting-your-vis-1560113710",
+        "source":"Gizmodo",
+        "title":"Google Glass Livestream App Makes Broadcasting Your Vision Even Easier"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/jdPS5a7NwZg/4-ways-tiny-microbes-changed-life-on-earth-forever-1558527578",
+        "source":"Gizmodo",
+        "title":"4 Ways Tiny Microbes Changed Life on Earth Forever"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/un6ZscEHXKs/",
+        "source":"Mashable",
+        "title":"A New Version of Comic Sans Actually Looks Pretty Cool"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/-Y7xTExwHxM/",
+        "source":"Mashable",
+        "title":"Watch HBO's 'Silicon Valley' Premiere on YouTube for Free"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/egFqOwCDaPI/",
+        "source":"Ars Technica",
+        "title":"Google submits 1,928 pages arguing for a trademark of the word “Glass”"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/9hbTSGrDlX4/",
+        "source":"Ars Technica",
+        "title":"Microsoft plugs Xbox One security hole discovered by five-year-old"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/delta-lumia-1520/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Delta to equip flight attendants with Nokia Lumia 1520s"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/JJNcaob8g88/this-typeface-makes-you-a-safer-driver-by-distracting-y-1560109806",
+        "source":"Gizmodo",
+        "title":"This Typeface Makes You a More Alert Driver By Distracting You Less"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/_U2mzauZIyU/",
+        "source":"Mashable",
+        "title":"Twitter Acquires Cover, an Android Lock Screen App"},
+      {
+        "link":"http://www.techspot.com/news/56262-post-breakup-t-mobile-offers-blackberry-users-100-credit-for-upgrade.html",
+        "source":"TechSpot",
+        "title":"Post breakup, T-Mobile offers BlackBerry users $100 credit for upgrade"},
+      {
+        "link":"http://venturebeat.com/2014/04/07/microsoft-cofounder-paul-allen-drops-40m-to-modernize-voting/",
+        "source":"VentureBeat",
+        "title":"Microsoft cofounder Paul Allen drops $40M to modernize voting"},
+      {
+        "link":"http://feeds.gawker.com/~r/lifehacker/vip/~3/Tybu0TG4SuI/tasks-is-a-near-perfect-astrid-clone-perfect-for-your-1558741203",
+        "source":"Lifehacker",
+        "title":"Tasks Is a Near-Perfect Astrid Clone, Perfect for Your To-Do List"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/EL4_vqNKRoQ/",
+        "source":"Mashable",
+        "title":"Report: Virgin America and JetBlue Are the Best Airlines in the U.S."},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/N7VAnB-14ns/",
+        "source":"Ars Technica",
+        "title":"Creepshots: Microsoft discovers an on-campus peeping tom"},
+      {
+        "link":"http://venturebeat.com/2014/04/07/anonymous-marketing-automation-new-tool-nurtures-unknown-prospects-everywhere/",
+        "source":"VentureBeat",
+        "title":"Anonymous marketing automation? New tool nurtures unknown prospects everywhere"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/OgGOJtHdEwE/",
+        "source":"Mashable",
+        "title":"'We're Never Truly Done': 10 Employees Give Insight on Startup Culture"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/xbox-one-shares-gameplay-footage-direct-to-youtube/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"Xbox One now shares gameplay footage direct to YouTube"},
+      {
+        "link":"http://venturebeat.com/2014/04/07/marketing-automation-giant-vocus-acquired-for-446-5m/",
+        "source":"VentureBeat",
+        "title":"Marketing software giant Vocus acquired for $446.5M"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/ZJ-m7ZA5VnA/wirelessly-access-any-of-your-naked-hard-drives-with-th-1560087720",
+        "source":"Gizmodo",
+        "title":"Wirelessly Access Any of Your Naked Hard Drives With This Dock"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/CDqXfhWRRZA/",
+        "source":"Mashable",
+        "title":"Lady Gaga Live Stream Puts NYC's Roseland Ballroom to Bed Forever"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/IcJoSPbtmKQ/",
+        "source":"Mashable",
+        "title":"AT&T U-verse Service Suffers Massive, Nationwide Outage"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/MPEdobAB5oY/+gmanaugh",
+        "source":"Gizmodo",
+        "title":"An F1 Steering Wheel Has To Be The World's Most Complex Input Device"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/duA3jhRYqIQ/",
+        "source":"Mashable",
+        "title":"HBO Has Only Itself to Blame for Streaming Struggles"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/osamu-tezuka-manga-google-cultural-institute/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"The 'father of manga' joins Google's Cultural Institute"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/yDC3hMU_pwA/at-t-is-currently-experiencing-a-nationwide-blackout-in-1560246976",
+        "source":"Gizmodo",
+        "title":"AT&T is currently experiencing a nationwide blackout in U-verse service."},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/knSQEt9zq-0/",
+        "source":"Mashable",
+        "title":"Netflix, Hulu and ... Yahoo? Why Marissa Mayer Wants Original TV Programming"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/_vXfa1fxOec/",
+        "source":"Mashable",
+        "title":"Breakdancing Cop Makes You Want to Put Your Hands Up"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/HiKulwI9Iwk/",
+        "source":"Mashable",
+        "title":"Brands Pay Homage to 'Game of Thrones' During Season 4 Premiere"},
+      {
+        "link":"http://feeds.arstechnica.com/~r/arstechnica/index/~3/99ty2CT2frU/",
+        "source":"Ars Technica",
+        "title":"UK Parliament slams the BBC for succumbing to false balance on climate"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/ee-orange-t-mobile-price-hike/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"EE, Orange and T-Mobile phone bills set to rise on May 28th"},
+      {
+        "link":"http://venturebeat.com/2014/04/07/qualcomms-newest-mobile-chips-offer-a-clear-glimpse-at-2015s-killer-gadgets/",
+        "source":"VentureBeat",
+        "title":"Qualcomm’s newest mobile chips offer a glimpse at 2015′s killer gadgets"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/vlY_bIhLXqY/",
+        "source":"Mashable",
+        "title":"Chris Martin Debuts New Music Video, Clearly OK After Conscious Uncoupling"},
+      {
+        "link":"http://www.engadget.com/2014/04/07/nvidia-shield-april-update/?ncid=rss_truncated",
+        "source":"Engadget RSS Feed",
+        "title":"NVIDIA's Shield can now stream your PC games when you're out of the house"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/RacDEgYq_Qg/strap-on-oculus-rift-goggles-and-control-a-drone-with-y-1560229495",
+        "source":"Gizmodo",
+        "title":"Strap On Oculus Rift Goggles And Control A Drone With Your Head"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/BkqKWcnXA3o/",
+        "source":"Mashable",
+        "title":"Temporary 'Tattoo' Could Help Patients With Parkinson's, Epilepsy"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/UaR1m0qeJpk/",
+        "source":"Mashable",
+        "title":"Google Glass Just Became an Excellent Way to Live Stream"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/tQrTwHVTJjE/",
+        "source":"Mashable",
+        "title":"Your Heroic Xbox One Gaming Moments Now Can Live Forever on YouTube"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/MEBsx2rUOsk/",
+        "source":"Mashable",
+        "title":"Child's Portrait Puts a Face on Drone Strikes in Pakistan"},
+      {
+        "link":"http://venturebeat.com/2014/04/07/wellframe-raises-1-5m-to-send-patients-home-with-a-nurse-in-their-pocket/",
+        "source":"VentureBeat",
+        "title":"Wellframe raises $1.5M to send patients home with a nurse in their pocket"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/QWa7DZ0xVbs/+caseychan",
+        "source":"Gizmodo",
+        "title":"Best use of Photoshop yet may find abandoned dogs a new home"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/fVu3ISGJPJY/charge-four-gadgets-at-once-nexus-7-with-a-free-chrome-1560122211",
+        "source":"Gizmodo",
+        "title":"Charge Four Gadgets at Once, Nexus 7 with a Free Chromecast, PS+"},
+      {
+        "link":"http://feeds.gawker.com/~r/gizmodo/full/~3/AaH2sO3MlVo/+ericlimer",
+        "source":"Gizmodo",
+        "title":"The ridiculed Comic Sans typeface gets its dignity back with Comic Neue"},
+      {
+        "link":"http://feeds.mashable.com/~r/Mashable/~3/avuRF3h_Yok/",
+        "source":"Mashable",
+        "title":"Does Google Need YouTube Music?"}]
+  }}

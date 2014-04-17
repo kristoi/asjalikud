@@ -1,0 +1,23 @@
+.news-container {
+	height:120px;
+	border-style:solid;
+	border-width:3px;
+	border-left:;
+	border-color:#D1D0CE;
+	background-color:#ededed;
+	border-radius:0px;
+	padding:20px;
+	text-align:center;
+	vertical-align:middle;
+	margin:10px 4%;
+}
+.sitename-style {
+	display:block;
+	background-color:#222222;
+	padding:8px;
+	color:white;
+	text-align:center;
+}
+#step2 {
+	visibility:hidden;
+}
